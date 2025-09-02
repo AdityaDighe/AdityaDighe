@@ -9,7 +9,7 @@
 
 
 
-  - 🎓 **Third Year Computer Engineering student.**
+  - 🎓 **Software Developer**
   - 📫 Reach out to me at **ardighe7@gmail.com**
 
 
