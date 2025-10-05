@@ -10,7 +10,9 @@
 
 
   - 🎓 **Software Developer**
-  - 📫 Reach out to me at **ardighe7@gmail.com**
+  - 📫 Reach out to me at [ardighe7@gmail.com](mailto:ardighe7@gmail.com)
+  - 💼 Or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-dighe-aa5635267/)
+
 
 
   # 💻 Tech Stack:
