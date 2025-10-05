@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hey 👋, I'm Aditya Dighe</h1>
-  <h2 align="center">I'm Computer Engineering Student at Dwarkadas J. Sanghvi College Of Engineering<h2>
+  <h2 align="center">I'm Computer Engineer from Dwarkadas J. Sanghvi College Of Engineering<h2>
 
 
   <p align="left">
